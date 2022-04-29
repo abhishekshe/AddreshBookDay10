@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNPVPbxLN6kAJdXyARfds5LEC0VL+BXv0Mp8lvs5ykYWDjbkkV/64hlEiIMq2dY2oQRYqLASuw865m8cMGlx7g==",
+  "dgSpecHash": "V45nYX8Pl546Q3zDRqjJK7HTWgAhhRIFnp+9LFnpLNiHKP48E/9bQ/AT8R7xoU6dyrMX0NiuHIW9dctOPwPpmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\abhis\\source\\repos\\Addressbook\\Addressbook\\Addressbook.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,9 @@
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
-    "C:\\Users\\abhis\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512"
+    "C:\\Users\\abhis\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\abhis\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
+    "C:\\Users\\abhis\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
   ],
   "logs": []
 }

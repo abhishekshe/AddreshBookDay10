@@ -1,0 +1,8 @@
+2022-04-29 17:53:09.4996|Warn|Entered Wrong Phone no. : AdditionContactDetails() | 
+2022-04-29 17:53:09.6096|Info|Contact Details Addition Successful: AddingContactDetails() | 
+2022-04-29 17:53:09.6096|Warn|Entered Wrong Phone no. : AdditionContactDetails() | 
+2022-04-29 17:53:09.6096|Info|Contact Details Addition Successful: AddingContactDetails() | 
+2022-04-29 17:55:32.8090|Warn|Entered Wrong Phone no. : AdditionContactDetails() | 
+2022-04-29 17:55:32.8680|Info|Contact Details Addition Successful: AddingContactDetails() | 
+2022-04-29 17:55:32.8680|Warn|Entered Wrong Phone no. : AdditionContactDetails() | 
+2022-04-29 17:55:32.8680|Info|Contact Details Addition Successful: AddingContactDetails() | 
